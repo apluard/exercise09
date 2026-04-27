@@ -10,7 +10,7 @@ To perform the analysis, first I organized the data by converting the two csv fi
 
 First, I analyzed whether the existed any discrepancies between how the two groups viewd the class currently. I got a count of how often each choice (1 - 7, with 1 being strongly disagree and 7 being strongly agree) was selected by the two groups for the interesting, valuable, and would recommend categories. Since there are differing totals between the two groups, there were significantly more non-computer science major responses. Therefore, I converted the data into percentages instead, which also allowed me to get the percentage of respondants in each group that generally agreed with the statement, which I defined as a response > 4. I also used that data to produce bar graphs to visually represent the differences between computer science majors and non-computer science majors in their responses, which are shown below.
 
-<img src = "static/imgs/intersting.png" alt="Graph Comparing 'Interesting' Ratings for Major Groups."  width="500"/>
+<img src = "static/imgs/interesting.png" alt="Graph Comparing 'Interesting' Ratings for Major Groups."  width="500"/>
 <img src = "static/imgs/valuable.png" alt="Graph Comparing 'Valuable' Ratings for Major Groups."  width="500"/>
 <img src = "static/imgs/recommend.png" alt="Graph Comparing 'Would Reccomend' Ratings for Major Groups."  width="500"/>
 
@@ -22,9 +22,6 @@ Then, I analyzed whether including information about computer science's connecti
 <img src = "static/imgs/connections.png" alt="Graph Showing Non-Comp Major Interest in Connections."  width="500"/>
 
 This data showed that most non-comp majors are interested in the connections between computer science and other fields, showing that this could potentially be a helpful addition to future versions of this class.
-
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 
 # Conclusion
