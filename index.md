@@ -16,7 +16,7 @@ Based on these graphs, it seems that COMP majors are more likley to be intereset
 
 Then, I analyzed whether including information about computer science's connections to other fields would be a possibility to reduce the disparites that I found in the other categories. I used a similar strategy, finding the counts and then percentages of how frequently each response choice was selected by non-computer science majors. I then used the agree function once again to find the percentage of respondants > 4 and created a visual representation of the categorical data using a bar graph. The graph is shown below and the data is included in the conclusion discussion.
 
-img src="apluard/exercise09/static/imgs/connections.png" alt="Graph showing Agreement with Interest in Connections from Non-Comp Majors"  width="500"/
+<img src = "apluard/exercise09/static/imgs/connections.png" alt="Graph showing Non-Comp Major Interest in Connections."  width="500"/>
 
 This data showed that most non-comp majors are interested in the connections between computer science and other fields, showing that this could potentially be a helpful addition to future versions of this class.
 
