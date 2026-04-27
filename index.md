@@ -14,7 +14,6 @@ First, I analyzed whether the existed any discrepancies between how the two grou
 <img src = "static/imgs/valuable.png" alt="Graph Comparing 'Valuable' Ratings for Major Groups."  width="500"/>
 <img src = "static/imgs/recommend.png" alt="Graph Comparing 'Would Reccomend' Ratings for Major Groups."  width="500"/>
 
-img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/
 Based on these graphs, it seems that COMP majors are more likley to be intereseted in this course and think it is valuable, especially when comparing the extremens (1 and 7). The data is slighlty less clear for would_recommend, with many more comp majors responding 7 than non-comp majors, but also more comp majors responding 1 than non-comp majors.
 
 Then, I analyzed whether including information about computer science's connections to other fields would be a possibility to reduce the disparites that I found in the other categories. I used a similar strategy, finding the counts and then percentages of how frequently each response choice was selected by non-computer science majors. I then used the agree function once again to find the percentage of respondants > 4 and created a visual representation of the categorical data using a bar graph. The graph is shown below and the data is included in the conclusion discussion.
