@@ -10,13 +10,16 @@ To perform the analysis, first I organized the data by converting the two csv fi
 
 First, I analyzed whether the existed any discrepancies between how the two groups viewd the class currently. I got a count of how often each choice (1 - 7, with 1 being strongly disagree and 7 being strongly agree) was selected by the two groups for the interesting, valuable, and would recommend categories. Since there are differing totals between the two groups, there were significantly more non-computer science major responses. Therefore, I converted the data into percentages instead, which also allowed me to get the percentage of respondants in each group that generally agreed with the statement, which I defined as a response > 4. I also used that data to produce bar graphs to visually represent the differences between computer science majors and non-computer science majors in their responses, which are shown below.
 
-<!-- PUT THE IMAGES HERE -->
+<img src = "static/imgs/intersting.png" alt="Graph Comparing 'Interesting' Ratings for Major Groups."  width="500"/>
+<img src = "static/imgs/valuable.png" alt="Graph Comparing 'Valuable' Ratings for Major Groups."  width="500"/>
+<img src = "static/imgs/recommend.png" alt="Graph Comparing 'Would Reccomend' Ratings for Major Groups."  width="500"/>
+
 img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/
 Based on these graphs, it seems that COMP majors are more likley to be intereseted in this course and think it is valuable, especially when comparing the extremens (1 and 7). The data is slighlty less clear for would_recommend, with many more comp majors responding 7 than non-comp majors, but also more comp majors responding 1 than non-comp majors.
 
 Then, I analyzed whether including information about computer science's connections to other fields would be a possibility to reduce the disparites that I found in the other categories. I used a similar strategy, finding the counts and then percentages of how frequently each response choice was selected by non-computer science majors. I then used the agree function once again to find the percentage of respondants > 4 and created a visual representation of the categorical data using a bar graph. The graph is shown below and the data is included in the conclusion discussion.
 
-<img src = "apluard/exercise09/static/imgs/connections.png" alt="Graph showing Non-Comp Major Interest in Connections."  width="500"/>
+<img src = "static/imgs/connections.png" alt="Graph Showing Non-Comp Major Interest in Connections."  width="500"/>
 
 This data showed that most non-comp majors are interested in the connections between computer science and other fields, showing that this could potentially be a helpful addition to future versions of this class.
 
